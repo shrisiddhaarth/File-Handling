@@ -1,2 +1,7 @@
-Hello my name is siddhaarth.
-I play basketball
+Python
+is
+fun
+and
+easy
+to
+learn
