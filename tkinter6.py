@@ -66,5 +66,6 @@ scissors_btn.grid(row=0, column=2, padx=10)
 # Run the window
 root.mainloop()
 
+ 
 
 
